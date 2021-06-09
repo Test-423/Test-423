@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<h2> My name is Tim <img src="https://avatars.githubusercontent.com/u/71094162?s=60&v=4" width="60"></h2>
 <!--
 **Test-423/Test-423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
