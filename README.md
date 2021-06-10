@@ -1,10 +1,18 @@
 <h2> Hello there 👋 My name is Tim</h2>
 
-Junior Frontend Developer. Mastered the MEAN stack. I have good experience with Angular. I am fairly familiar with JavaScript, TypeScript. I am fond of developing application functionality and solving problems of increased complexity in JavaScript (on the CodeWars platform). I put the quality of the code first. I always try to optimize my code.
+Junior Frontend Developer. Mastered JS/TS. I have good experience with Angular. Fond of developing application functionality and solving problems of increased complexity in JavaScript (on the CodeWars platform). I put the quality of the code first. I always try to optimize my code.
+<br />
+### Main tech 💻 : 
+<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> 
+<img align="left" alt="Html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
 
-Main tech :  
 
-Tech Stack 🔨:
+<br />
+
+### Tech Stack 👨‍💻:
 - Frontend: HTML5, CSS3, Angular, JavaScript/TypeScript
 - Backend: NodeJS
 - Database: MongoDB
@@ -13,8 +21,9 @@ Tech Stack 🔨:
 - IDE: VS Code
 - Operating System: Windows
 
-Soft Skills:
+<br />
 
+### Soft Skills:
 - Problem Solving, TeamWork, Communication 
 
 <!--
