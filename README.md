@@ -4,7 +4,7 @@
 Junior Frontend Developer. Mastered JS/TS. I have good experience with Angular. Fond of developing application functionality and solving problems of increased complexity in JavaScript (on the CodeWars platform).
 <br />
 
-### Main tech :
+## Main tech :
  
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png " />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -14,7 +14,7 @@ Junior Frontend Developer. Mastered JS/TS. I have good experience with Angular. 
 
 <br />
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/telegram.svg"/>][tg]
 [<img align="left" alt="Test-423 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -23,7 +23,7 @@ Junior Frontend Developer. Mastered JS/TS. I have good experience with Angular. 
  
 <br />
 
-### Tech Stack:
+## Tech Stack:
 
 - Frontend: HTML5, CSS3, Angular, JavaScript/TypeScript
 - Backend: NodeJS
@@ -33,7 +33,7 @@ Junior Frontend Developer. Mastered JS/TS. I have good experience with Angular. 
 - IDE: VS Code
 - Operating System: Windows
 
-### Skills:
+## Skills:
 - Put the quality of the code first
 - Always try to optimize my code
 - Problem Solving, TeamWork, Communication 
