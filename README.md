@@ -1,10 +1,14 @@
 <h2> Hello there 👋 My name is Tim</h2>
 
-Tech Stack:
+Junior Frontend Developer. Mastered the MEAN stack. I have good experience with Angular. I am fairly familiar with JavaScript, TypeScript. I am fond of developing application functionality and solving problems of increased complexity in JavaScript (on the CodeWars platform). I put the quality of the code first. I always try to optimize my code.
+
+Main tech :  
+
+Tech Stack 🔨:
 - Frontend: HTML5, CSS3, Angular, JavaScript/TypeScript
 - Backend: NodeJS
 - Database: MongoDB
-- Libraries: TaigaUI
+- Libraries: Taiga UI
 - Version Control: Git
 - IDE: VS Code
 - Operating System: Windows
