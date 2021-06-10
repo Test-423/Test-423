@@ -1,6 +1,5 @@
 <h2> Hello there 👨‍💻. My name is Tim </h2>
 
-
 Junior Frontend Developer. Mastered JS/TS. Have good experience with Angular
 <br />
 
@@ -12,9 +11,7 @@ Junior Frontend Developer. Mastered JS/TS. Have good experience with Angular
 - Libraries: Taiga UI
 - Version Control: Git
 - IDE: VS Code
-- Operating System: Windows
-
-<br />
+- Operating System: Windows 
  
 ## Main tech :
  
@@ -32,9 +29,6 @@ Junior Frontend Developer. Mastered JS/TS. Have good experience with Angular
 [<img align="left" alt="Test-423 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Test-423 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Test-423 | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
- 
-<br />
-
 <!--
 **Test-423/Test-423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
