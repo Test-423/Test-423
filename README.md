@@ -1,6 +1,6 @@
 <h2> Hello there 👨‍💻. My name is Tim </h2>
 
-Junior Frontend Developer. Mastered JS/TS. Have good experience with Angular
+Junior Angular Developer. Mastered JS/TS. Have good experience with Angular
 <br />
 
 ## Tech Stack:
